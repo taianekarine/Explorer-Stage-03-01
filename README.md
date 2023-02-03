@@ -40,6 +40,5 @@ Avançando no HTML e CSS
 - Acessibilidade
 - Tags semânticas (input, textarea, checkbox, submit, button)
 
----
 
 Feito com 🧡 by Taiane Karine e Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
