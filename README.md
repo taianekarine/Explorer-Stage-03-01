@@ -35,10 +35,10 @@ Avançando no HTML e CSS
 
 ## Aprendizado
 
-- Ferramentas dev do navegador
-- Posicionando textos e elementos
-- Acessibilidade
-- Tags semânticas (input, textarea, checkbox, submit, button)
+- Ferramentas dev do navegador;
+- Posicionando textos e elementos;
+- Acessibilidade;
+- Tags semânticas (input, textarea, checkbox, submit, button);
 
 
 Feito com 🧡 by Taiane Karine e Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
